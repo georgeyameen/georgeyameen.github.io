@@ -69,3 +69,8 @@ section { padding: 40px 0; }
 footer { border-top: 1px solid var(--line); margin-top: 40px; padding: 28px 0 40px; color: var(--muted); font-size: 15px; }
 footer a { color: var(--muted); }
 footer p { margin: 0 0 8px; }
+.shots.pano { gap: 0; }
+.shots.pano img { border: 0; border-radius: 0; }
+.shots.pano img:first-child { border-radius: 14px 0 0 14px; }
+.shots.pano img:last-child { border-radius: 0 14px 14px 0; }
+@media (max-width: 700px) { .shots.pano img { border-radius: 0; } }
