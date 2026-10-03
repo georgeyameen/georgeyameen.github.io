@@ -35,6 +35,8 @@ h3 { font-size: 18px; margin: 0 0 6px; }
 .badge { display: inline-block; }
 .badge img { height: 54px; width: auto; }
 .meta { color: var(--muted); font-size: 15px; margin: 12px 0 0; }
+.crumbs { color: var(--muted); font-size: 15px; margin: 0 0 16px; }
+.crumbs a { color: var(--muted); }
 
 section { padding: 40px 0; }
 .shots { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; padding-top: 16px; }
