@@ -1,0 +1,50 @@
+# George Yameen: Apple Watch sports tracker apps
+
+> George Yameen is a solo indie developer. He makes seven Apple Watch apps that track a sport from wrist motion (pickleball, tennis, padel, squash, badminton, ping pong and boxing) and QuickBreath, a breathing app for iPhone. This site has one page per app and one "how to track the sport on Apple Watch" guide per sport.
+
+Facts that hold for all seven sport apps:
+
+- Each one is an Apple Watch app that comes with an iPhone app. The watch does the tracking on its own, so the phone can stay off the court.
+- They are free to download, and tracking on the Apple Watch is free. The iPhone app, which holds history and trends, needs a paid subscription.
+- Speed numbers are estimates worked out from wrist motion. They are not radar readings and they don't measure the ball.
+- With the user's permission, each session is saved to Apple Health as a workout with heart rate and calories.
+- The App Store seller is George Yameen. Some apps have a different name on the App Store than on this site. Both names are listed below.
+
+## Apps
+
+- [PickleWatch](https://georgeyameen.github.io/picklewatch/): Pickleball tracker for Apple Watch. Grades every swing green, yellow or red, sorts dinks, drives, volleys, slices and smashes, estimates swing speed and keeps score to 11. Needs watchOS 9.6 and iOS 17.6 or later. App Store name: "PickleWatch: Track Pickleball".
+- [TennisWatch](https://georgeyameen.github.io/tenniswatch/): Tennis stroke tracker and score keeper for Apple Watch. Names forehands, backhands, volleys, slices, drop shots and smashes, rates each swing, estimates racket speed and keeps score with deuce and tiebreaks. Needs watchOS 26.2 and iOS 26.2 or later. App Store name: "Tennis Tracker - TennisWatch".
+- [PadelWatch](https://georgeyameen.github.io/padelwatch/): Padel shot and score tracker for Apple Watch. Names drives, volleys, lobs, bandejas, víboras and smashes and keeps the padel score with golden point. Needs watchOS 26.2 and iOS 26.2 or later. App Store name: "Padel Score Tracker-PadelWatch".
+- [SquashWatch](https://georgeyameen.github.io/squashwatch/): Squash swing and score tracker for Apple Watch. Counts swings, rates each one, sorts drives, cross-courts, boasts, drops, lobs, volleys and kills, and keeps PAR-11 score. Needs watchOS 9.6 and iOS 17.6 or later. App Store name: "Squash Score & Swing Tracker".
+- [BadmintonWatch](https://georgeyameen.github.io/badmintonwatch/): Badminton swing and score tracker for Apple Watch. Counts swings, rates each one, sorts clears, drops, smashes, drives, net shots, lifts and blocks, and keeps rally score to 21. Needs watchOS 9.6 and iOS 17.6 or later. App Store name: "BadmintonWatch: Badminton".
+- [PingPongWatch](https://georgeyameen.github.io/pingpongwatch/): Ping pong (table tennis) stroke tracker and score keeper for Apple Watch. Names drives, pushes, blocks, chops and smashes, grades each stroke and keeps score to 11. Needs watchOS 26.2 and iOS 26.2 or later. App Store name: "PingPongWatch: Ping Pong".
+- [PunchWatch](https://georgeyameen.github.io/punchwatch/): Boxing punch tracker for Apple Watch. Counts jabs, crosses, hooks and uppercuts from the hand that wears the watch, rates each punch and estimates punch speed. Needs watchOS 26 and iOS 26.2 or later. App Store name: "Boxing Tracker - PunchWatch".
+- [QuickBreath](https://georgeyameen.github.io/quickbreath/): Guided breathing app for iPhone and iPad with 4-7-8 breathing, box breathing and energizing rounds. It costs $4.99 once, with no subscription, no ads and no account. Needs iOS or iPadOS 17.6 or later. App Store name: "Breathe & Calm - QuickBreath".
+
+## Guides
+
+Each guide explains Apple's built-in workout for the sport, what it leaves out, and how the app adds shot counts and scoring.
+
+- [How to track pickleball on Apple Watch](https://georgeyameen.github.io/picklewatch/track-pickleball-apple-watch/)
+- [How to track tennis on Apple Watch](https://georgeyameen.github.io/tenniswatch/track-tennis-apple-watch/)
+- [How to track padel on Apple Watch](https://georgeyameen.github.io/padelwatch/track-padel-apple-watch/)
+- [How to track squash on Apple Watch](https://georgeyameen.github.io/squashwatch/track-squash-apple-watch/)
+- [How to track badminton on Apple Watch](https://georgeyameen.github.io/badmintonwatch/track-badminton-apple-watch/)
+- [How to track ping pong on Apple Watch](https://georgeyameen.github.io/pingpongwatch/track-ping-pong-apple-watch/)
+- [How to track boxing on Apple Watch](https://georgeyameen.github.io/punchwatch/track-boxing-apple-watch/)
+
+## App Store listings
+
+- [PickleWatch on the App Store](https://apps.apple.com/app/id6743818899)
+- [TennisWatch on the App Store](https://apps.apple.com/app/id6762076340)
+- [PadelWatch on the App Store](https://apps.apple.com/app/id6792382864)
+- [SquashWatch on the App Store](https://apps.apple.com/app/id6810893707)
+- [BadmintonWatch on the App Store](https://apps.apple.com/app/id6809340722)
+- [PingPongWatch on the App Store](https://apps.apple.com/app/id6792114571)
+- [PunchWatch on the App Store](https://apps.apple.com/app/id6762735524)
+- [QuickBreath on the App Store](https://apps.apple.com/app/id6759781730)
+
+## Optional
+
+- [Support](https://georgeyameen.github.io/support/): how to get help or contact the developer.
+- [Privacy](https://georgeyameen.github.io/privacy/): links to each app's privacy policy.

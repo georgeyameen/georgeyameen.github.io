@@ -76,3 +76,7 @@ footer p { margin: 0 0 8px; }
 .shots.pano img:first-child { border-radius: 14px 0 0 14px; }
 .shots.pano img:last-child { border-radius: 0 14px 14px 0; }
 @media (max-width: 700px) { .shots.pano img { border-radius: 0; } }
+
+.facts dl { margin: 0; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 8px 20px; }
+.facts dt { font-weight: 600; margin-top: 12px; }
+.facts dd { margin: 0 0 12px; color: var(--muted); font-size: 16px; }
